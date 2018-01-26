@@ -1,5 +1,5 @@
 <#
-Purpose: Script for exporting users in a group (BCG - 00380686)
+Purpose: Script for exporting users in a group
 Notes: Requires PowerShell 3.0 or later
 Example: .\group_users_report.ps1 -org "tenant.okta.com" -groupId "XXXXXXXXXXXXXXX" -api_token "XXXXXXXXXXXXXXX" -path "c:\group_users_report.csv"
 #>
